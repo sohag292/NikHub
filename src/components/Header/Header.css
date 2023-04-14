@@ -1,0 +1,21 @@
+
+ul li{
+    margin-right: 30px;
+}
+
+ul li a{
+   text-decoration: none;
+   font-size: 18px;
+   color: #757575;
+
+}
+
+.custom{
+    border: none;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+  
+}
+

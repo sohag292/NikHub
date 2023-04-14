@@ -1,0 +1,12 @@
+.details{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.text-gray{
+    color: #757575;
+}

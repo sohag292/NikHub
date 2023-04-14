@@ -1,0 +1,25 @@
+
+.banner-heading span{
+    color:  #7E90FE
+}
+
+.banner-desc{
+    max-width: 440px;
+    color: #757575;
+}
+.text-gray{
+    color: #757575;
+}
+.btn-custom{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border: none;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 8px;
+}
+
+.banner-heading{
+    max-width: 390px;
+    font-weight: 600;
+    font-size: 55px;   
+}
